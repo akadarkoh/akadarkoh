@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akadarkoh
-- 👀 I’m interested in mastering my coding skills
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in mastering cloud engineering
+- 🌱 I’m currently learning Terraform, Typescript, JS
 - 💞️ I’m looking to collaborate on anything computer science
 - 📫 How to reach me 6143829559 / kofiasante2001@yahoo.com
 
