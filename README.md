@@ -2,9 +2,9 @@
 #### I am a Cloud Support Engineer with keen interests in building sustainable, durable and scalable systems through the use of various Cloud and DevOps practices.
 
 # 📬 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akadarkoh2001/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?logo=aws&logoColor=white)](https://main.dbbsguknkkeza.amplifyapp.com/)
-- [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:kofiasante2001@yahoo.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akadarkoh2001/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-success?logo=aws&logoColor=white)](https://main.dbbsguknkkeza.amplifyapp.com/)
+- [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kofiasante2001@yahoo.com)
 
 
 
