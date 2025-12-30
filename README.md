@@ -7,9 +7,9 @@
 - [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kofiasante2001@yahoo.com)
 
 # Projects
-- [ TravelEase Contact Form ](https://github.com/akadarkoh/travelease-contact)
-- -
-- [ Container Security Falcon ](https://github.com/akadarkoh/Container-Security-Falcon)
+### [ TravelEase Contact Form ](https://github.com/akadarkoh/travelease-contact)
+- 
+### [ Container Security Falcon ](https://github.com/akadarkoh/Container-Security-Falcon)
 
 
 <!---
