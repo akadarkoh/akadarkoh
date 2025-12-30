@@ -1,10 +1,11 @@
 # Hey, I'm Kofi Asante Ampim Darkoh
 ### I am a Cloud Support Engineer with keen interests in building sustainable, durable and scalable systems through the use of various Cloud and DevOps practices.
 
-## Contact Me Through:
-Linkedin: https://www.linkedin.com/in/akadarkoh2001/
-Portfolio: https://main.dbbsguknkkeza.amplifyapp.com/
-Email: kofiasante2001@yahoo.com
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akadarkoh2001/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?logo=aws&logoColor=white)](https://main.dbbsguknkkeza.amplifyapp.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:kofiasante2001@yahoo.com)
+
 
 
 
